@@ -1,14 +1,31 @@
 <div align=center>
-<h1>김진현 KIM JINHYUN</h1>
-<h4>KYUNGPOOK NATIONAL UNIVERSITY</h4>
-<h5>KNU CSE SW/Startup Club, 'GET IT' 1st. 2nd. 7th. executive</h5>
-<br>
+  <h1>김진현 KIM JINHYUN</h1>
+  <p>KYUNGPOOK NATIONAL UNIVERSITY, Undergraduated</p>
+  <br>
+</div>
 
 <div align=center>
   <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjhyun0627">
+  <br>
 </div>
 
-<div align=center><h3>📚 STACKS</h3></div>
+<div align=center>
+  <br>
+  <h3>🔥In Progress</h3>
+  <h5>KNU CSE SW / Startup Club, 'GET IT' 1st. 2nd. 7th. executive & Backend Education Team</h5>
+  <h5>AI Prompt Startup, 'PIPY' Frontend Developer</h5>
+  <br>
+</div>
+
+<div align=center>
+  <h3>🔖Past Activities</h3>
+  <h5>Startup Service 'NAVI', Co-Representive & Frontend Developer</h5>
+  <h5>2022 북구 청년창업 경진대회 수상</h5>
+  <h5>2024 공군 창업 경진대회</h5>
+  <br>
+</div>
+
+<div align=center><h3>📚STACKS</h3></div>
   <div align=center> 
     <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black">  
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
