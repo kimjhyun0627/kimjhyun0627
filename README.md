@@ -23,9 +23,9 @@
   <h3>🔖Past Activities</h3>
   <h5>2021 Startup Service 'NAVI', Co-Representive & Frontend Developer</h5>
   <h5>2022 북구 청년창업 경진대회 수상</h5>
-  <h5>2022 KNU CSE 대구를 빛내는 해커톤 최우수상</h5>
-  <h5>2024 공군 창업 경진대회</h5>
-  <h5>2025 iM뱅크 iM Challengers 아이디어톤, Team iM Principes</h5>
+  <h5>2022 KNU CSE 대구를 빛내는 해커톤 최우수상 Team 내 퍼스널 컬러는 해커톤, Android Developer</h5>
+  <h5>2024 공군 창업 경진대회, Frontend Developer</h5>
+  <h5>2025 iM뱅크 iM Challengers Team iM Principes, Frontend Developer</h5>
   <br>
 </div>
 
