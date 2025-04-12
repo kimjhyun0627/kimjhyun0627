@@ -12,10 +12,10 @@
 <div align=center>
   <br>
   <h3>🔥In Progress</h3>
-  <h5>KNU CSE SW&Startup Club, 'GET IT' 1st. 2nd. 7th. executive & Backend Education Team</h5>
-  <h5>AI Prompt Startup, 'PIPY' Frontend Developer</h5>
-  <h5>9oormthon UNIV. KNU 4th. Backend Member</h5>
-  <h5>Kakao Tech Campus KNU 3rd. Backend Member</h5>
+  <h5>KNU CSE SW&Startup Club 'GET IT', 1st. 2nd. 7th. Vice President & Backend Education Team Member</h5>
+  <h5>AI Prompt Startup 'PIPY', Frontend Developer</h5>
+  <h5>9oormthon UNIV. KNU, 4th. Backend Member</h5>
+  <h5>Kakao Tech Campus KNU, 3rd. Backend Member</h5>
   <br>
 </div>
 
