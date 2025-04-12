@@ -12,7 +12,7 @@
 <div align=center>
   <br>
   <h3>🔥In Progress</h3>
-  <h5>KNU CSE SW&Startup Club 'GET IT', 1st. 2nd. 7th. Vice President & Backend Education Team Member</h5>
+  <h5>KNU CSE SW & Startup Club 'GET IT', 1st. 2nd. 7th. Vice President & Backend Education Team Member</h5>
   <h5>AI Prompt Startup 'PIPY', Frontend Developer</h5>
   <h5>9oormthon UNIV. KNU, 4th. Backend Member</h5>
   <h5>Kakao Tech Campus KNU, 3rd. Backend Member</h5>
@@ -21,9 +21,11 @@
 
 <div align=center>
   <h3>🔖Past Activities</h3>
-  <h5>Startup Service 'NAVI', Co-Representive & Frontend Developer</h5>
+  <h5>2021 Startup Service 'NAVI', Co-Representive & Frontend Developer</h5>
   <h5>2022 북구 청년창업 경진대회 수상</h5>
+  <h5>2022 KNU CSE 대구를 빛내는 해커톤 최우수상</h5>
   <h5>2024 공군 창업 경진대회</h5>
+  <h5>2025 iM뱅크 iM Challengers 아이디어톤, Team iM Principes</h5>
   <br>
 </div>
 
