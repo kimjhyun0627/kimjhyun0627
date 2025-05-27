@@ -12,7 +12,7 @@
 <div align=center>
   <br>
   <h3>🔥In Progress</h3>
-  <h5>KNU CSE SW & Startup Club 'GET IT', 7th. Vice President & Backend Stack Education Team Leader</h5>
+  <h5>KNU CSE SW & Startup Club 'GET IT', 7th. Vice President & Education Team Leader</h5>
   <h5>AI Prompt Startup 'PIPY', Frontend Developer</h5>
   <h5>9oormthon UNIV. KNU, 4th. Backend Member</h5>
   <h5>Kakao Tech Campus KNU, 3rd. Backend Member</h5>
