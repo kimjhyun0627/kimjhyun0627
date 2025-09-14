@@ -20,6 +20,7 @@
 
 <div align=center>
   <h3>🔖Past Activities</h3>
+  <h5>2025: 대경권 연합해커톤 '달빛톤' 장려상 Team '기릿', Developer & IR</h5>
   <h5>2025: AI Prompt Startup 'PIPY', Co-Representive & Frontend Developer</h5>
   <h5>2025: KNU CSE SW & Startup Club 'GET IT', 7th. Vice President & Education Team Leader</h5>
   <h5>2025: iM뱅크 iM Challengers 아이디어톤 Team 'iM Principes', Frontend Developer</h5>
