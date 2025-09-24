@@ -23,6 +23,7 @@
   <h5>KNU CSE SW & Startup Club 'GET IT', 8th. Vice President & Education Team Leader</h5>
   <h5>9oormthon UNIV. KNU, 4th. Backend Member</h5>
   <h5>Kakao Tech Campus KNU, 3rd. Backend Member</h5>
+  <h5>Google Development Group on Campus KNU, 5th. Frontend Member</h5>
   <br>
 </div>
 
