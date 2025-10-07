@@ -20,22 +20,22 @@
 <div align=center>
   <br>
   <h3>🔥In Progress</h3>
-  <h5>KNU CSE SW & Startup Club 'GET IT', 8th. Vice President & Education Team Leader</h5>
+  <h5>KNU CSE SW & Startup Club 'GET IT', 8th. Vice President & Education Team Leader <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
   <h5>9oormthon UNIV. KNU, 4th. Backend Member</h5>
-  <h5>Kakao Tech Campus KNU, 3rd. Backend Member</h5>
+  <h5>Kakao Tech Campus KNU, 3rd. Backend Member <a href="https://github.com/kakao-tech-campus-3rd-step3/Team5_BE">🔗</a></h5>
   <h5>Google Development Group on Campus KNU, 5th. Frontend Member</h5>
   <br>
 </div>
 
 <div align=center>
   <h3>🔖Past Activities</h3>
-  <h5>🥉 2025: 대경권 연합해커톤 '달빛톤' 장려상 Team '기릿', Full Stack Developer & IR</h5>
-  <h5>2025: AI Prompt Startup 'PIPY', Co-Representive & Frontend Developer</h5>
-  <h5>2025: KNU CSE SW & Startup Club 'GET IT', 7th. Vice President & Education Team Leader</h5>
-  <h5>2025: iM뱅크 iM Challengers 아이디어톤 Team 'iM Principes', Frontend Developer</h5>
+  <h5>🥉 2025: 대경권 연합해커톤 '달빛톤' 장려상 Team '기릿', Full Stack Developer</a> & IR <a href="<a href="https://github.com/kimjhyun0627/getit-2025-lunathon">🔗</a></h5>
+  <h5>2025: AI Prompt Startup 'PIPY', Co-Representive & Frontend Developer <a href="https://github.com/Catleap02/pipy-frontend">🔗</a></h5>
+  <h5>2025: KNU CSE SW & Startup Club 'GET IT', 7th. Vice President & Education Team Leader <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
+  <h5>2025: iM뱅크 iM Challengers 아이디어톤 Team 'iM Principes', Frontend Developer <a href="https://github.com/iM-Principes">🔗</a></h5>
   <h5>2024: 공군 창업 경진대회 Team '32전대', Frontend Developer</h5>
-  <h5>🥇 2022: KNU CSE 대구를 빛내는 해커톤 최우수상 Team '내 퍼스널 컬러는 해커톤', Android Developer</h5>
-  <h5>2022: KNU CSE SW & Startup Club 'GET IT', 1st. 2nd. Secretary & Education Team Member</h5>
+  <h5>🥇 2022: KNU CSE 대구를 빛내는 해커톤 최우수상 Team '내 퍼스널 컬러는 해커톤', Android Developer <a href="https://github.com/jupyter471/2022-Hackathon">🔗</a></h5>
+  <h5>2022: KNU CSE SW & Startup Club 'GET IT', 1st. 2nd. Secretary & Education Team Member <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-study&type=&language=&sort=">🔗</a></h5>
   <h5>🥉 2022: 북구 청년창업 경진대회 입상 Team 'NAVI', Team Member</h5>
   <h5>2021: Startup Service 'NAVI', Co-Representive & Frontend Developer</h5>
   <br>
