@@ -29,7 +29,7 @@
 
 <div align=center>
   <h3>🔖Past Activities</h3>
-  <h5>🥉 2025: 대경권 연합해커톤 '달빛톤' 장려상 Team '기릿', Full Stack Developer</a> & IR <a href="<a href="https://github.com/kimjhyun0627/getit-2025-lunathon">🔗</a></h5>
+  <h5>🥉 2025: 대경권 연합해커톤 '달빛톤' 장려상 Team '기릿', Full Stack Developer</a> & IR <a href="https://github.com/kimjhyun0627/getit-2025-lunathon">🔗</a></h5>
   <h5>2025: AI Prompt Startup 'PIPY', Co-Representive & Frontend Developer <a href="https://github.com/Catleap02/pipy-frontend">🔗</a></h5>
   <h5>2025: KNU CSE SW & Startup Club 'GET IT', 7th. Vice President & Education Team Leader <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
   <h5>2025: iM뱅크 iM Challengers 아이디어톤 Team 'iM Principes', Frontend Developer <a href="https://github.com/iM-Principes">🔗</a></h5>
