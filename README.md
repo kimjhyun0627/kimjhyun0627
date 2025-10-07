@@ -29,14 +29,14 @@
 
 <div align=center>
   <h3>🔖Past Activities</h3>
-  <h5>2025: 대경권 연합해커톤 '달빛톤' 장려상 Team '기릿', Full Stack Developer & IR</h5>
+  <h5>🥉 2025: 대경권 연합해커톤 '달빛톤' 장려상 Team '기릿', Full Stack Developer & IR</h5>
   <h5>2025: AI Prompt Startup 'PIPY', Co-Representive & Frontend Developer</h5>
   <h5>2025: KNU CSE SW & Startup Club 'GET IT', 7th. Vice President & Education Team Leader</h5>
   <h5>2025: iM뱅크 iM Challengers 아이디어톤 Team 'iM Principes', Frontend Developer</h5>
   <h5>2024: 공군 창업 경진대회 Team '32전대', Frontend Developer</h5>
-  <h5>2022: KNU CSE 대구를 빛내는 해커톤 최우수상 Team '내 퍼스널 컬러는 해커톤', Android Developer</h5>
+  <h5>🥇 2022: KNU CSE 대구를 빛내는 해커톤 최우수상 Team '내 퍼스널 컬러는 해커톤', Android Developer</h5>
   <h5>2022: KNU CSE SW & Startup Club 'GET IT', 1st. 2nd. Secretary & Education Team Member</h5>
-  <h5>2022: 북구 청년창업 경진대회 입상 Team 'NAVI', Team Member</h5>
+  <h5>🥉 2022: 북구 청년창업 경진대회 입상 Team 'NAVI', Team Member</h5>
   <h5>2021: Startup Service 'NAVI', Co-Representive & Frontend Developer</h5>
   <br>
 </div>
