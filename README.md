@@ -1,10 +1,10 @@
-<div align=center>
+<div align=left>
   <h1>김진현 KIM JINHYUN</h1>
   <p>KYUNGPOOK NATIONAL UNIVERSITY, Undergraduated</p>
   <br>
 </div>
 
-<div align=center>
+<div align=left>
   <img  
     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjhyun0627"
     width="400"
@@ -17,15 +17,17 @@
 </a>
 
 
-<div align=center>
+<div align=left>
   <br>
   <h3>🔥In Progress</h3>
+  <h5>✊ KNU CSE SW & Startup Club 'GET IT', 9th. Education Team Member</h5>
   <h5>💻 Google Development Group on Campus KNU, 5th. Frontend Member</h5>
   <br>
 </div>
 
-<div align=center>
+<div align=left>
   <h3>🔖Past Activities</h3>
+  <h5>💻 2026: Rikai Technology, Da Nang, Vietnam, Software Intern</h5>
   <h5>🥈 2025: KNU CSE AI-Conic 해커톤 우수상 Team 'MoodWave', FrontEnd Developer <a href="https://github.com/kimjhyun0627/knu-moodwave">🔗</a></h5>
   <h5>🗄️ 2025: 9oormthon UNIV. KNU, 4th. Backend Member</h5>
   <h5>🗄️ 2025: Kakao Tech Campus KNU, 3rd. Backend Member <a href="https://github.com/kakao-tech-campus-3rd-step3/Team5_BE">🔗</a></h5>
@@ -41,37 +43,43 @@
   <br>
 </div>
 
-<div align=center><h3>📚STACKS</h3></div>
-  <div align=center> 
-    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black">  
+<div align=left><h3>📚STACKS</h3></div>
+  <div align=left>
+    <img src="https://img.shields.io/badge/c-98a9bC?style=for-the-badge&logo=c&logoColor=white">  
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=coffeescript&logoColor=white">
     <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-    <br>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/javascript-d7bF00?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white">
-    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/react-51cAeB?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img src="https://img.shields.io/badge/expo-1C2024?style=for-the-badge&logo=expo&logoColor=white">
     <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+    <img src="https://img.shields.io/badge/react flow-1A192B?style=for-the-badge&logo=xyflow&logoColor=white">
     <br>
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/nestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-447941?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+    <img src="https://img.shields.io/badge/firebase-eFaA18?style=for-the-badge&logo=firebase&logoColor=white">
+    <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/google cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white">
+    <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+    <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+    <img src="https://img.shields.io/badge/Claude code-D97757?style=for-the-badge&logo=claude&logoColor=white">
+    <img src="https://img.shields.io/badge/odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white">
 </div>
