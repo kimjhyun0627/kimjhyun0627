@@ -3,20 +3,7 @@
   <p>KYUNGPOOK NATIONAL UNIVERSITY, Undergraduated</p>
   <br>
 </div>
-
-<div align=left>
-  <img  
-    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjhyun0627"
-    width="400"
-    />
-  <br>
-</div>
-
-<a href="https://github.com/jogilsang/jogilsang" target="_blank" rel="noopener">
-</a>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Profile 3D Contrib"/>
 
 <div align=left>
   <br>
@@ -41,6 +28,15 @@
   <h5>✊ 2022: KNU CSE SW & Startup Club 'GET IT', 1st. 2nd. Secretary & Education Team Member <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-study&type=&language=&sort=">🔗</a></h5>
   <h5>🥉 2022: 북구 청년창업 경진대회 입상 Team 'NAVI', Team Member</h5>
   <h5>💻 2021: Startup Service 'NAVI', Co-Representive & Frontend Developer</h5>
+  <br>
+</div>
+
+<div align=left>
+  <h2>BOJ(ALGORITHM) TIER</h2>
+  <img  
+    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjhyun0627"
+    width="full"
+    />
   <br>
 </div>
 
