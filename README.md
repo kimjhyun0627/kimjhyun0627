@@ -13,8 +13,9 @@
 </div>
 
 <a href="https://github.com/jogilsang/jogilsang" target="_blank" rel="noopener">
-  
 </a>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 <div align=left>
