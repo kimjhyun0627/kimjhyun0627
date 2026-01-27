@@ -15,7 +15,7 @@
 
 <div align=left>
   <h2>🔖PAST ACTIVITIES</h2>
-  <h5>💻 2026: Rikai Technology, Da Nang, Vietnam, Software Intern</h5>
+  <h5>💻 2026: Rikai Technology, Đà Nẵng, Vietnam, Software Intern</h5>
   <h5>🥈 2025: KNU CSE AI-Conic 해커톤 우수상 Team 'MoodWave', FrontEnd Developer <a href="https://github.com/kimjhyun0627/knu-moodwave">🔗</a></h5>
   <h5>🗄️ 2025: 9oormthon UNIV. KNU, 4th. Backend Member</h5>
   <h5>🗄️ 2025: Kakao Tech Campus KNU, 3rd. Backend Member <a href="https://github.com/kakao-tech-campus-3rd-step3/Team5_BE">🔗</a></h5>
