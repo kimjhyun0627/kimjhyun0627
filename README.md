@@ -1,8 +1,7 @@
-<div align=left>
-  <h1>김진현 KIM JINHYUN</h1>
-  <p>KYUNGPOOK NATIONAL UNIVERSITY, Undergraduated</p>
-  <br>
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Kim%20Jinhyun&desc=KYUNGPOOK%20NATIONAL%20UNIVERSITY,%20Undergraduated&fontAlign=center&fontAlignY=30&descAlignY=50&color=gradient&fontColor=dddddd"/>
 </div>
+
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Profile 3D Contrib"/>
 
 <div align=left>
