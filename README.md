@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Kim%20Jinhyun&desc=KYUNGPOOK%20NATIONAL%20UNIVERSITY,%20Undergraduated&fontAlign=center&fontAlignY=30&descAlignY=50&color=gradient&fontColor=dddddd"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Kim%20Jinhyun&desc=Kyungpook%20National%20University,%20Undergraduated&fontAlign=center&fontAlignY=30&descAlignY=50&color=gradient&fontColor=dddddd"/>
 </div>
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Profile 3D Contrib"/>
