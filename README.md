@@ -32,7 +32,7 @@
 </div>
 
 <div align=left>
-  <h2>BOJ(ALGORITHM) TIER</h2>
+  <h2>ALGORITHM(BOJ)</h2>
   <img  
     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjhyun0627"
     width="full"
