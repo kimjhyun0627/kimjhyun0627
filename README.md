@@ -8,7 +8,7 @@
   <br>
   <h2>🔥IN PROGRESS</h2>
   <h5>🐻 Bear Robotics, Redwood City, CA, SWE Team Intern</h5>
-  <h5>✊ KNU CSE SW & Startup Club 'GET IT', 9th. Education Team Member</h5>
+  <h5>✊ KNU CSE SW & Startup Club 'GET IT', 9th. SW Education Team Member & Advisor</h5>
   <br>
 </div>
 
