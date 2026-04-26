@@ -37,7 +37,6 @@
     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjhyun0627"
     width="full"
     />
-  <img src="http://mazandi.herokuapp.com/api?handle=kimjhyun0627&theme=dark"/>
   <br>
 </div>
 
