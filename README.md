@@ -14,6 +14,7 @@
 
 <div align=left>
   <h2>🔖PAST ACTIVITIES</h2>
+  <h5>🥇 2026: 1st place at the DeepLearning.AI Voice AI Hackathon Team 'Yes, Bear Platoon Plz', Full Stack Developer </h5>
   <h5>💻 2026: Rikai Technology, Đà Nẵng, Vietnam, Software Intern</h5>
   <h5>💻 2025: Google Development Group on Campus KNU, 5th. Frontend Member</h5>
   <h5>🥈 2025: KNU CSE AI-Conic 해커톤 우수상 Team 'MoodWave', FrontEnd Developer <a href="https://github.com/kimjhyun0627/knu-moodwave">🔗</a></h5>
