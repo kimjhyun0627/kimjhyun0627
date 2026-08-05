@@ -43,8 +43,6 @@
 
 <div align=left><h2>📚TECH STACKS</h2></div>
   <div align=left>
-    <img src="https://img.shields.io/badge/c-98a9bC?style=for-the-badge&logo=c&logoColor=white">  
-    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/java-AF6F4E?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -57,7 +55,6 @@
     <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img src="https://img.shields.io/badge/expo-1C2024?style=for-the-badge&logo=expo&logoColor=white">
-    <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
     <img src="https://img.shields.io/badge/react flow-1A192B?style=for-the-badge&logo=xyflow&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -75,8 +72,6 @@
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/google cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white">
-    <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
     <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
     <img src="https://img.shields.io/badge/Claude code-D97757?style=for-the-badge&logo=claude&logoColor=white">
     <img src="https://img.shields.io/badge/odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white">
