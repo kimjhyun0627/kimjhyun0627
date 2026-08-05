@@ -7,7 +7,7 @@
 <div align=left>
   <br>
   <h2>🔥IN PROGRESS</h2>
-  <h5>🐻 Bear Robotics, Redwood City, CA, Productivity Team Intern</h5>
+  <h5>🐻 Bear Robotics, Redwood City, CA, Productivity Team Intern & Python Code Reviewer</h5>
   <h5>✊ KNU CSE SW & Startup Club 'GET IT', 9th. SW Education Team Member & Advisor</h5>
   <br>
 </div>
