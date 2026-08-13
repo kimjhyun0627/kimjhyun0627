@@ -6,7 +6,7 @@
 
 <div align=left>
   <br>
-  <h2>🔥 NOW IN</h2>
+  <h2>🔥 NOW IN...</h2>
   <h5>🐻 Software Intern & Python Code-Reviewer @ Bear Robotics, Redwood City CA</h5>
   <h5>✊ SW Team Advisor @ 'GET IT', KNU CSE SW & Startup Club, 9th batch</h5>
   <br>
