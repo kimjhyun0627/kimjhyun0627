@@ -44,14 +44,12 @@
     <img src="https://img.shields.io/badge/javascript-d7bF00?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white">
     <img src="https://img.shields.io/badge/react-51cAeB?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img src="https://img.shields.io/badge/expo-1C2024?style=for-the-badge&logo=expo&logoColor=white">
     <img src="https://img.shields.io/badge/react flow-1A192B?style=for-the-badge&logo=xyflow&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/nestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
@@ -61,11 +59,11 @@
     <br>
     <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-447941?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-eFaA18?style=for-the-badge&logo=firebase&logoColor=white">
-    <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/google cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+    <img src="https://img.shields.io/badge/bazel-43A047?style=for-the-badge&logo=bazel&logoColor=white">
+    <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+    <img src="https://img.shields.io/badge/docker%20compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <br>
+    <img src="https://img.shields.io/badge/google cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
     <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
     <img src="https://img.shields.io/badge/Claude code-D97757?style=for-the-badge&logo=claude&logoColor=white">
     <img src="https://img.shields.io/badge/odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white">
