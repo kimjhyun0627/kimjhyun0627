@@ -17,7 +17,7 @@
   <h5>🥇 2026: 1st place at the DeepLearning.AI Voice AI Hackathon</h5>
   <h5>🥈 2025: KNU CSE AI-Conic 해커톤 우수상<a href="https://github.com/kimjhyun0627/knu-moodwave">🔗</a></h5>
   <h5>🥉 2025: 대경권 연합해커톤 '달빛톤' 장려상<a href="https://github.com/kimjhyun0627/getit-2025-lunathon">🔗</a></h5>
-  <h5>🥇 2022: KNU CSE 대구를 빛내는 해커톤 최우수상<a href="https://github.com/jupyter471/2022-Hackathon">🔗</a></h5>
+  <h5>🥇 2022: KNU CSE 대구를 빛내는 해커톤 대상<a href="https://github.com/jupyter471/2022-Hackathon">🔗</a></h5>
   <h5>🥉 2022: 북구 청년창업 경진대회 장려상</h5>
   <br>
 </div>
