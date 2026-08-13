@@ -8,7 +8,7 @@
   <br>
   <h2>🔥 NOW IN</h2>
   <h5>🐻 Software Intern & Python Code Reviewer @ Bear Robotics, Redwood City CA</h5>
-  <h5>✊ Internal SW Education Team Member & Advisor @ KNU CSE SW & Startup Club 'GET IT' 9th. batch</h5>
+  <h5>✊ Internal SW Education Team Member & Advisor @ 'GET IT', KNU CSE SW & Startup Club, 9th batch</h5>
   <br>
 </div>
 
@@ -18,7 +18,7 @@
   <h5>🥈 2025: 우수상 @ KNU CSE, AI-Conic 해커톤<a href="https://github.com/kimjhyun0627/knu-moodwave">🔗</a></h5>
   <h5>🥉 2025: 장려상 @ 대경권 연합 해커톤 '달빛톤'<a href="https://github.com/kimjhyun0627/getit-2025-lunathon">🔗</a></h5>
   <h5>🥇 2022: 대상 @ KNU CSE, 대구를 빛내는 해커톤<a href="https://github.com/jupyter471/2022-Hackathon">🔗</a></h5>
-  <h5>🥉 2022: 장려상 @ 북구 청년창업 경진대회</h5>
+  <h5>🥉 2022: 장려상 @ 대구 북구 청년창업경진대회</h5>
   <br>
 </div>
 
@@ -29,10 +29,10 @@
   <h5>🗄️ 2025: Backend Member @ 9oormthon UNIV. KNU 4th. batch</h5>
   <h5>🗄️ 2025: Backend Member @ Kakao Tech Campus KNU 3rd. batch <a href="https://github.com/kakao-tech-campus-3rd-step3/Team5_BE">🔗</a></h5>
   <h5>💻 2025: Co-Representive & Frontend Developer @ 'PIPY', AI Prompt Startup <a href="https://github.com/Catleap02/pipy-frontend">🔗</a></h5>
-  <h5>✊ 2025: Vice President & Internal SW Education Team Lead @ KNU CSE SW & Startup Club 'GET IT' 8th. batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
-  <h5>✊ 2025: Vice President & Internal SW Education Team Lead @ KNU CSE SW & Startup Club 'GET IT' 7th. batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
-  <h5>✊ 2022: Secretary & Internal Education Team Member @ KNU CSE SW & Startup Club 'GET IT' 2nd. batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-study&type=&language=&sort=">🔗</a></h5>
-  <h5>✊ 2022: Secretary & Internal Education Team Member @ KNU CSE SW & Startup Club 'GET IT' 1st. batch  <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-study&type=&language=&sort=">🔗</a></h5>
+  <h5>✊ 2025: Vice President & Internal SW Education Team Lead @ 'GET IT', KNU CSE SW & Startup Club, 8th batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
+  <h5>✊ 2025: Vice President & Internal SW Education Team Lead @ 'GET IT', KNU CSE SW & Startup Club, 7th batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
+  <h5>✊ 2022: Secretary & Internal Education Team Member @ 'GET IT', KNU CSE SW & Startup Club, 2nd batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-study&type=&language=&sort=">🔗</a></h5>
+  <h5>✊ 2022: Secretary & Internal Education Team Member @ 'GET IT', KNU CSE SW & Startup Club, 1st batch  <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-study&type=&language=&sort=">🔗</a></h5>
   <br>
 </div>
 
