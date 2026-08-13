@@ -8,31 +8,31 @@
   <br>
   <h2>🔥 NOW IN</h2>
   <h5>🐻 Software Intern & Python Code-Reviewer @ Bear Robotics, Redwood City CA</h5>
-  <h5>✊ Internal SW Education Team Member & Advisor @ 'GET IT', KNU CSE SW & Startup Club, 9th batch</h5>
+  <h5>✊ SW Team Advisor @ 'GET IT', KNU CSE SW & Startup Club, 9th batch</h5>
   <br>
 </div>
 
 <div align=left>
   <h2>🏆 PRIZES</h2>
-  <h5>🥇 2026.07: 1st place @ DeepLearning.AI & Sabre, Voice AI Hackathon</h5>
-  <h5>🥈 2025.12: 우수상 @ KNU CSE, AI-Conic 해커톤<a href="https://github.com/kimjhyun0627/knu-moodwave">🔗</a></h5>
-  <h5>🥉 2025.09: 장려상 @ 대경권 연합 해커톤 '달빛톤'<a href="https://github.com/kimjhyun0627/getit-2025-lunathon">🔗</a></h5>
-  <h5>🥇 2022.10: 대상 @ KNU CSE, 대구를 빛내는 해커톤<a href="https://github.com/jupyter471/2022-Hackathon">🔗</a></h5>
-  <h5>🥉 2022.01: 장려상 @ 대구 북구 청년창업경진대회</h5>
+  <h5>🥇 2026.07: 1st place @ DeepLearning.AI & Sabre 'Voice AI Hackathon'</h5>
+  <h5>🥈 2025.12: Excellence Award @ KNU CSE AI-Conic 해커톤<a href="https://github.com/kimjhyun0627/knu-moodwave">🔗</a></h5>
+  <h5>🥉 2025.09: Honorable Mention @ 대경권 연합 해커톤 '달빛톤'<a href="https://github.com/kimjhyun0627/getit-2025-lunathon">🔗</a></h5>
+  <h5>🥇 2022.10: 1st place @ KNU CSE '대구를 빛내는 해커톤'<a href="https://github.com/jupyter471/2022-Hackathon">🔗</a></h5>
+  <h5>🥉 2022.01: Honorable Mention @ 대구 북구 청년창업경진대회</h5>
   <br>
 </div>
 
 <div align=left>
   <h2>🔖 PAST ACTIVITIES</h2>
   <h5>💻 2026.01~2026.02: Software Intern @ Rikai Technology, Đà Nẵng Vietnam</h5>
-  <h5>💻 2025.04~2026.02: FE Member @ Google Development Group on Campus KNU, 5th batch</h5>
-  <h5>🗄️ 2025.03~2025.11: BE Member @ 9oormthon UNIV. KNU, 4th batch</h5>
-  <h5>🗄️ 2025.03~2025.10: BE Member @ Kakao Tech Campus KNU, 3rd batch <a href="https://github.com/kakao-tech-campus-3rd-step3/Team5_BE">🔗</a></h5>
-  <h5>💻 2025.03~2025.09: Co-Representative & FE Developer @ 'PIPY', AI Prompt Startup <a href="https://github.com/Catleap02/pipy-frontend">🔗</a></h5>
-  <h5>✊ 2025.08~2026.02: Vice President & Internal SW Educator @ 'GET IT', KNU CSE SW & Startup Club, 8th batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
-  <h5>✊ 2025.02~2025.07: Vice President & Internal SW Educator @ 'GET IT', KNU CSE SW & Startup Club, 7th batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
-  <h5>✊ 2022.08~2022.12: Secretary & Internal Educator @ 'GET IT', KNU CSE SW & Startup Club, 2nd batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-study&type=&language=&sort=">🔗</a></h5>
-  <h5>✊ 2022.01~2022.07: Secretary & Internal Educator @ 'GET IT', KNU CSE SW & Startup Club, 1st batch  <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-study&type=&language=&sort=">🔗</a></h5>
+  <h5>💻 2025.04~2026.02: Frontend Member @ Google Development Group on Campus KNU, 5th batch</h5>
+  <h5>🗄️ 2025.03~2025.11: Backend Member @ 9oormthon UNIV. KNU, 4th batch</h5>
+  <h5>🗄️ 2025.03~2025.10: Backend Member @ Kakao Tech Campus KNU, 3rd batch <a href="https://github.com/kakao-tech-campus-3rd-step3/Team5_BE">🔗</a></h5>
+  <h5>💻 2025.03~2025.09: Co-Representative & Frontend Developer @ 'PIPY', AI Prompt Startup <a href="https://github.com/Catleap02/pipy-frontend">🔗</a></h5>
+  <h5>✊ 2025.08~2026.02: Vice President & Tech Stack Educator @ 'GET IT', KNU CSE SW & Startup Club, 8th batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
+  <h5>✊ 2025.02~2025.07: Vice President & Tech Stack Educator @ 'GET IT', KNU CSE SW & Startup Club, 7th batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
+  <h5>✊ 2022.08~2022.12: Secretary & Tutor @ 'GET IT', KNU CSE SW & Startup Club, 2nd batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-study&type=&language=&sort=">🔗</a></h5>
+  <h5>✊ 2022.01~2022.07: Secretary & Tutor @ 'GET IT', KNU CSE SW & Startup Club, 1st batch  <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-study&type=&language=&sort=">🔗</a></h5>
   <br>
 </div>
 
