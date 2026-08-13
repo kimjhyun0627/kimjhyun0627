@@ -15,10 +15,10 @@
 <div align=left>
   <h2>🏆 PRIZES</h2>
   <h5>🥇 2026.07: 1st place @ DeepLearning.AI & Sabre 'Voice AI Hackathon'</h5>
-  <h5>🥈 2025.12: Excellence Award @ KNU CSE AI-Conic 해커톤<a href="https://github.com/kimjhyun0627/knu-moodwave">🔗</a></h5>
-  <h5>🥉 2025.09: Honorable Mention @ 대경권 연합 해커톤 '달빛톤'<a href="https://github.com/kimjhyun0627/getit-2025-lunathon">🔗</a></h5>
-  <h5>🥇 2022.10: 1st place @ KNU CSE '대구를 빛내는 해커톤'<a href="https://github.com/jupyter471/2022-Hackathon">🔗</a></h5>
-  <h5>🥉 2022.01: Honorable Mention @ 대구 북구 청년창업경진대회</h5>
+  <h5>🥈 2025.12: 우수상 @ KNU CSE AI-Conic 해커톤<a href="https://github.com/kimjhyun0627/knu-moodwave">🔗</a></h5>
+  <h5>🥉 2025.09: 장려상 @ 대경권 연합 해커톤 '달빛톤'<a href="https://github.com/kimjhyun0627/getit-2025-lunathon">🔗</a></h5>
+  <h5>🥇 2022.10: 대상 @ KNU CSE '대구를 빛내는 해커톤'<a href="https://github.com/jupyter471/2022-Hackathon">🔗</a></h5>
+  <h5>🥉 2022.01: 장려상 @ 대구 북구 청년창업경진대회</h5>
   <br>
 </div>
 
