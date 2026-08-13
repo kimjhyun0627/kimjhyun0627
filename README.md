@@ -6,14 +6,14 @@
 
 <div align=left>
   <br>
-  <h2>🔥IN PROGRESS</h2>
-  <h5>🐻 Bear Robotics, Redwood City, CA, Productivity Team Intern & Python Code Reviewer</h5>
-  <h5>✊ KNU CSE SW & Startup Club 'GET IT', 9th. SW Education Team Member & Advisor</h5>
+  <h2>🔥 NOW IN</h2>
+  <h5>🐻 Software Intern & Python Code Reviewer @ Bear Robotics, Redwood City CA</h5>
+  <h5>✊ Internal SW Education Team Member & Advisor @ KNU CSE SW & Startup Club 'GET IT' 9th. batch</h5>
   <br>
 </div>
 
 <div align=left>
-  <h2>🏆PRIZES</h2>
+  <h2>🏆 PRIZES</h2>
   <h5>🥇 2026: 1st place @ DeepLearning.AI & Sabre, Voice AI Hackathon</h5>
   <h5>🥈 2025: 우수상 @ KNU CSE, AI-Conic 해커톤<a href="https://github.com/kimjhyun0627/knu-moodwave">🔗</a></h5>
   <h5>🥉 2025: 장려상 @ 대경권 연합 해커톤 '달빛톤'<a href="https://github.com/kimjhyun0627/getit-2025-lunathon">🔗</a></h5>
@@ -23,25 +23,16 @@
 </div>
 
 <div align=left>
-  <h2>🔖PAST ACTIVITIES</h2>
-  <h5>💻 2026: Rikai Technology, Đà Nẵng, Vietnam, Software Intern</h5>
-  <h5>💻 2025: Google Development Group on Campus KNU, 5th. Frontend Member</h5>
-  <h5>🗄️ 2025: 9oormthon UNIV. KNU, 4th. Backend Member</h5>
-  <h5>🗄️ 2025: Kakao Tech Campus KNU, 3rd. Backend Member <a href="https://github.com/kakao-tech-campus-3rd-step3/Team5_BE">🔗</a></h5>
-  <h5>💻 2025: AI Prompt Startup 'PIPY', Co-Representive & Frontend Developer <a href="https://github.com/Catleap02/pipy-frontend">🔗</a></h5>
-  <h5>✊ 2025: KNU CSE SW & Startup Club 'GET IT', 7th. & 8th. Vice President & Education Team Leader <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
-  <h5>✊ 2022: KNU CSE SW & Startup Club 'GET IT', 1st. 2nd. Secretary & Education Team Member <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-study&type=&language=&sort=">🔗</a></h5>
-  <h5>💻 2021: Startup Service 'NAVI', Co-Representive & Frontend Developer</h5>
-  <br>
-</div>
-
-
-<div align=left>
-  <h2>ALGORITHM(BOJ:deprecated)</h2>
-  <img  
-    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjhyun0627"
-    width="full"
-    />
+  <h2>🔖 PAST ACTIVITIES</h2>
+  <h5>💻 2026: Software Intern @ Rikai Technology, Đà Nẵng Vietnam</h5>
+  <h5>💻 2025: Frontend Member @ Google Development Group on Campus KNU 5th. batch</h5>
+  <h5>🗄️ 2025: Backend Member @ 9oormthon UNIV. KNU 4th. batch</h5>
+  <h5>🗄️ 2025: Backend Member @ Kakao Tech Campus KNU 3rd. batch <a href="https://github.com/kakao-tech-campus-3rd-step3/Team5_BE">🔗</a></h5>
+  <h5>💻 2025: Co-Representive & Frontend Developer @ 'PIPY', AI Prompt Startup <a href="https://github.com/Catleap02/pipy-frontend">🔗</a></h5>
+  <h5>✊ 2025: Vice President & Internal SW Education Team Lead @ KNU CSE SW & Startup Club 'GET IT' 8th. batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
+  <h5>✊ 2025: Vice President & Internal SW Education Team Lead @ KNU CSE SW & Startup Club 'GET IT' 7th. batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
+  <h5>✊ 2022: Secretary & Internal Education Team Member @ KNU CSE SW & Startup Club 'GET IT' 2nd. batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-study&type=&language=&sort=">🔗</a></h5>
+  <h5>✊ 2022: Secretary & Internal Education Team Member @ KNU CSE SW & Startup Club 'GET IT' 1st. batch  <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-study&type=&language=&sort=">🔗</a></h5>
   <br>
 </div>
 
