@@ -30,7 +30,7 @@
   <h5>🗄️ 2025.03-2025.11: Backend Member @ Kakao Tech Campus KNU, 3rd batch <a href="https://github.com/kakao-tech-campus-3rd-step3/Team5_BE">🔗</a></h5>
   <h5>💻 2025.03-2025.09: Co-Representative & Frontend Developer @ 'PIPY', AI Prompt Startup <a href="https://github.com/Catleap02/pipy-frontend">🔗</a></h5>
   <h5>✊ 2025.02-2026.02: Vice President & Dev Educator @ 'GET IT', KNU CSE SW & Startup Club, 7th & 8th batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
-  <h5>🪖 2023.01-2024.10: Unix System Administrator @ Republic of Korea Air Force</h5>
+  <h5>🫡 2023.01-2024.10: Unix System Administrator @ Republic of Korea Air Force</h5>
   <h5>✊ 2022.01-2022.12: Secretary & Tutor @ 'GET IT', KNU CSE SW & Startup Club, 1st & 2nd batch  <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-study&type=&language=&sort=">🔗</a></h5>
   <br>
 </div>
