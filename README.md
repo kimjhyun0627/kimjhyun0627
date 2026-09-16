@@ -18,7 +18,6 @@
   <h2>✨ SELECTED WORK</h2>
   <h5>🥇 2026.07: dia.loc — Voice AI agent @ DeepLearning.AI & Sabre 'Voice AI Hackathon'</h5>
   <h5>🎵 2025.12: MOODWAVE — mood-based AI playlist @ KNU CSE 'AI-Conic' <a href="https://github.com/kimjhyun0627/knu-moodwave">🔗</a></h5>
-  <h5>🌙 2025.09: 기릿 — monorepo @ 대경권 연합 해커톤 '달빛톤' <a href="https://github.com/kimjhyun0627/getit-2025-lunathon">🔗</a></h5>
   <h5>🧩 2025.07-2025.12: PIPY — node-based gen-AI workflow builder (FE) <a href="https://github.com/kimjhyun0627/gdgoc-pipy-frontend">🔗</a></h5>
   <h5>🎤 2025.03-2025.11: DailyQ — AI interview prep (Spring BE) @ Kakao Tech Campus <a href="https://github.com/kimjhyun0627/ktc-dailyq-backend">🔗</a></h5>
   <br>
