@@ -6,9 +6,6 @@
 
 <br>
 
-**SWE Intern @ Bear Robotics** (Redwood City) on internal eng-productivity tools.  
-CS + EE minor @ KNU. Build full-stack / AI products end to end.
-
 <div align=left>
   <br>
   <h2>🔥 NOW</h2>
