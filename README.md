@@ -16,11 +16,11 @@
 
 <div align=left>
   <h2>✨ SELECTED WORK</h2>
-  <h5>🥇 <b>dia.loc</b> — Voice AI agent · 1st @ DeepLearning.AI × Sabre Voice AI Hackathon (2026.07)</h5>
-  <h5>🎵 <b><a href="https://github.com/kimjhyun0627/knu-moodwave">MOODWAVE</a></b> — mood-based AI playlist · 우수상 @ KNU AI-Conic (2025.12) · <a href="https://moodwave.get-it.cloud">demo</a></h5>
-  <h5>🌙 <b><a href="https://github.com/kimjhyun0627/getit-2025-lunathon">달빛톤 · 기릿</a></b> — 대경권 연합 해커톤 장려상 (2025.09)</h5>
-  <h5>🧩 <b><a href="https://github.com/kimjhyun0627/gdgoc-pipy-frontend">PIPY</a></b> — node-based gen-AI workflow builder (FE) · co-founded</h5>
-  <h5>🎤 <b><a href="https://github.com/kimjhyun0627/ktc-dailyq-backend">DailyQ</a></b> — AI interview prep service (Spring BE) · Kakao Tech Campus</h5>
+  <h5>🥇 2026.07: dia.loc — Voice AI agent @ DeepLearning.AI & Sabre 'Voice AI Hackathon'</h5>
+  <h5>🎵 2025.12: MOODWAVE — mood-based AI playlist @ KNU CSE 'AI-Conic' <a href="https://github.com/kimjhyun0627/knu-moodwave">🔗</a></h5>
+  <h5>🌙 2025.09: 기릿 — monorepo @ 대경권 연합 해커톤 '달빛톤' <a href="https://github.com/kimjhyun0627/getit-2025-lunathon">🔗</a></h5>
+  <h5>🧩 2025.07-2025.12: PIPY — node-based gen-AI workflow builder (FE) <a href="https://github.com/kimjhyun0627/gdgoc-pipy-frontend">🔗</a></h5>
+  <h5>🎤 2025.03-2025.11: DailyQ — AI interview prep (Spring BE) @ Kakao Tech Campus <a href="https://github.com/kimjhyun0627/ktc-dailyq-backend">🔗</a></h5>
   <br>
 </div>
 
