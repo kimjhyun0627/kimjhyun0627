@@ -12,7 +12,7 @@ CS + EE minor @ KNU. Build full-stack / AI products end to end.
 <div align=left>
   <br>
   <h2>🔥 NOW</h2>
-  <h5>🐻 2026.03-: SWE Intern · Eng Productivity (VVQ Dashboard) · Python readability reviewer @ Bear Robotics, Redwood City CA</h5>
+  <h5>🐻 2026.03-: SWE Intern · Eng Productivity · Python readability reviewer @ Bear Robotics, Redwood City CA</h5>
   <h5>✊ 2026.02-: SW Team Advisor @ 'GET IT', KNU CSE SW & Startup Club, 9th batch</h5>
   <br>
 </div>
