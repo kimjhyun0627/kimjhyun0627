@@ -50,21 +50,36 @@ CS + EE minor @ KNU. Build full-stack / AI products end to end.
   <br>
 </div>
 
-<div align=left><h2>📚 STACK</h2></div>
+<div align=left><h2>📚TECH STACKS</h2></div>
   <div align=left>
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/java-AF6F4E?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-d7bF00?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/react-51cAeB?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+    <img src="https://img.shields.io/badge/expo-1C2024?style=for-the-badge&logo=expo&logoColor=white">
+    <img src="https://img.shields.io/badge/react flow-1A192B?style=for-the-badge&logo=xyflow&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/nestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-447941?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/bazel-43A047?style=for-the-badge&logo=bazel&logoColor=white">
+    <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+    <img src="https://img.shields.io/badge/docker%20compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/google cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+    <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+    <img src="https://img.shields.io/badge/Claude code-D97757?style=for-the-badge&logo=claude&logoColor=white">
+    <img src="https://img.shields.io/badge/odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white">
 </div>
