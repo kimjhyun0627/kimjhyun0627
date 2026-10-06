@@ -10,16 +10,7 @@
   <br>
   <h2>🔥 NOW</h2>
   <h5>🐻 2026.03-: SWE Intern · Eng Productivity · Python readability reviewer @ Bear Robotics, Redwood City CA</h5>
-  <h5>✊ 2026.02-: SW Team Advisor @ 'GET IT', KNU CSE SW & Startup Club, 9th batch</h5>
-  <br>
-</div>
-
-<div align=left>
-  <h2>✨ SELECTED WORK</h2>
-  <h5>🥇 2026.07: dia.loc — Voice AI agent @ DeepLearning.AI & Sabre 'Voice AI Hackathon'</h5>
-  <h5>🎵 2025.12: MOODWAVE — mood-based AI playlist @ KNU CSE 'AI-Conic' <a href="https://github.com/kimjhyun0627/knu-moodwave">🔗</a></h5>
-  <h5>🧩 2025.07-2025.12: PIPY — node-based gen-AI workflow builder (FE) <a href="https://github.com/kimjhyun0627/gdgoc-pipy-frontend">🔗</a></h5>
-  <h5>🎤 2025.03-2025.11: DailyQ — AI interview prep (Spring BE) @ Kakao Tech Campus <a href="https://github.com/kimjhyun0627/ktc-dailyq-backend">🔗</a></h5>
+  <h5>✊ 2026.02-: SW Team Advisor @ GET IT, KNU CSE SW & Startup Club, 9th batch</h5>
   <br>
 </div>
 
@@ -39,10 +30,10 @@
   <h5>💻 2025.04-2026.02: Frontend Member @ GDGoC KNU, 5th batch</h5>
   <h5>🗄️ 2025.03-2025.12: Backend Member @ 9oormthon UNIV. KNU, 4th batch</h5>
   <h5>🗄️ 2025.03-2025.11: Backend Member @ Kakao Tech Campus KNU, 3rd batch <a href="https://github.com/kakao-tech-campus-3rd-step3/Team5_BE">🔗</a></h5>
-  <h5>💻 2025.07-2025.12: Co-Founder & Frontend Developer @ 'PIPY' <a href="https://github.com/Catleap02/pipy-frontend">🔗</a></h5>
-  <h5>✊ 2025.02-2026.02: Vice President & Dev Educator @ 'GET IT', 7th & 8th batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
+  <h5>💻 2025.07-2025.12: Co-Founder & Frontend Developer @ PIPY <a href="https://github.com/Catleap02/pipy-frontend">🔗</a></h5>
+  <h5>✊ 2025.02-2026.02: Vice President & Dev Educator @ GET IT, 7th & 8th batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-2025&type=&language=&sort=">🔗</a></h5>
   <h5>🫡 2023.01-2024.10: Unix System Administrator @ Republic of Korea Air Force</h5>
-  <h5>✊ 2022.01-2022.12: Financial Manager & Tutor @ 'GET IT', 1st & 2nd batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-study&type=&language=&sort=">🔗</a></h5>
+  <h5>✊ 2022.01-2022.12: Financial Manager & Tutor @ GET IT, 1st & 2nd batch <a href="https://github.com/kimjhyun0627?tab=repositories&q=getit-study&type=&language=&sort=">🔗</a></h5>
   <br>
 </div>
 
